@@ -13,6 +13,8 @@ My Skill Set includes:
 
 Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry-level software engineer. If you're looking for new grad software engineers and think I'm a good fit, feel free to reach out!
 
+Email - devnandol@gmail.com
+
 LinkedIn - https://www.linkedin.com/in/devv3899/
 
 Portfolio - https://devv3899.github.io/
