@@ -11,8 +11,6 @@ My Skill Set includes:
 •Others: SAS, XML, AngularJS, React, AJAX, Excel.
 •Operating Systems: Linux, Windows, Unix.
 
-Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry-level software engineer. If you're looking for new grad software engineers and think I'm a good fit, feel free to reach out!
-
 Email - devnandol@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/devv3899/
