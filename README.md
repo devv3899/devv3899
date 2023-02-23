@@ -1,15 +1,16 @@
 Hi there, I am Dev Patel.
 
-I can do something that makes a difference. I have steadfastly believed in my capacity and determination to make a difference. I look to do so in the field of my passion and competence – Computer Science. Ever since I started learning about the subject and various theories governing it, I have been fascinated by the sheer scope within the various topics of my interest. I have since made progress in terms of learning and understanding a number of applications, tools and techniques and have developed confidence that any challenge within the topic can be met through research, hard work and concentrated focus on the task at hand.
+In my role as a Software Engineer specializing in IoT and IIoT, I have witnessed the boundless potential that this industry holds, and the transformative impact it can have on non-tech sectors. Drawing inspiration from this realization, I have dedicated my efforts towards creating tailored IoT solutions, leveraging the latest technological advancements to facilitate digital transformation.
 
-My Skill Set includes:
-•Languages: Java, Python, C, SQL, R(Basic), C++, MATLAB.
-•Web: HTML, CSS, JavaScript
-•Databases: SQL server, MySQL, MongoDB (Basic).
-•Development: Bitbucket, Github, Git.
-•Cloud Knowledge: AWS, MS Azure, Cloud Computing.
-•Others: SAS, XML, AngularJS, React, AJAX, Excel.
-•Operating Systems: Linux, Windows, Unix.
+As a rapid learner, I am always eager to expand my skillset and acquire new knowledge, should the position demand it. I am certain that my aptitudes and expertise will be effectively utilized, and I am excited to engage in further discussions regarding this opportunity.
+
+My professional skill set comprises the following:
+
+• Programming Languages: Java, Python, C, C++, C#, and .NET.
+• Web Development: Proficient in HTML, CSS, and JavaScript, including Angular and React frameworks.
+• Cloud Services: Experienced in AWS services such as IoT Core, IoT Greengrass, IoT Sitewise, Lambda, VPC, EC2 - LightSail, Kafka - MSK, S3, SQS, SNS, SES, DynamoDB, and API Gateway, as well as in MS Azure and GCP.
+• Databases: Proficient in SQL Server, MySQL, and NoSQL.
+• Development Tools: Skilled in Jenkins - CloudBees, Terraform, Kubernetes, Docker, Bitbucket, GitHub, and Git.
 
 Email - devnandol@gmail.com
 
