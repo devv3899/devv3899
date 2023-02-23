@@ -8,7 +8,7 @@ My professional skill set comprises the following:
 
 • Programming Languages: Java, Python, C, C++, C#, and .NET.
 • Web Development: Proficient in HTML, CSS, and JavaScript, including Angular and React frameworks.
-• Cloud Services: Experienced in AWS services such as IoT Core, IoT Greengrass, IoT Sitewise, Lambda, VPC, EC2 - LightSail, Kafka - MSK, S3, SQS, SNS, SES, DynamoDB, and API Gateway, as well as in MS Azure and GCP.
+• Cloud Services: Experienced in AWS services such as IoT Core, IoT Greengrass, IoT Sitewise, Lambda, VPC, EC2 - LightSail, Kafka - MSK, S3, SQS, SNS, SES, DynamoDB, and   API Gateway, as well as in MS Azure and GCP.
 • Databases: Proficient in SQL Server, MySQL, and NoSQL.
 • Development Tools: Skilled in Jenkins - CloudBees, Terraform, Kubernetes, Docker, Bitbucket, GitHub, and Git.
 
