@@ -1,23 +1,36 @@
-Hi there, I am Dev Patel.
+Hi there — I'm Dev Patel.
 
-In my role as a Software Engineer specializing in IoT and IIoT, I have witnessed the boundless potential that this industry holds, and the transformative impact it can have on non-tech sectors. Drawing inspiration from this realization, I have dedicated my efforts towards creating tailored IoT solutions, leveraging the latest technological advancements to facilitate digital transformation.
+I build cloud platforms for high-volume manufacturing.
 
-As a rapid learner, I am always eager to expand my skillset and acquire new knowledge, should the position demand it. I am certain that my aptitudes and expertise will be effectively utilized, and I am excited to engage in further discussions regarding this opportunity.
+I joined a manufacturing automation team as its first software engineer, working
+alongside mechanical and controls engineers who were building factory lines and
+piloting IoT on the shop floor. My job was getting their device data into AWS and
+building the platform around it, and that platform became the foundation for most
+of what the team ships today.
 
-My professional skill set comprises the following:
+Since then the work has grown from IoT telemetry into the broader platform layer:
+serverless architecture and delivery standards used across 40+ backend services,
+real-time pipelines processing 1M+ events a day, and a production AI agent platform
+on Amazon Bedrock that lets non-technical staff query live production data in plain
+language.
 
-• Programming Languages: Java, Python, C, C++, C#, and .NET.
+What I care about is making industrial data useful — taking physical, paper-driven
+processes, digitizing them so every step emits structured data, and putting real
+answers in front of the people running the floor.
 
-• Web Development: Proficient in HTML, CSS, and JavaScript, including Angular and React frameworks.
+### Core skills
 
-• Cloud Services: Experienced in AWS services such as IoT Core, IoT Greengrass, IoT Sitewise, Lambda, VPC, EC2 - LightSail, Kafka - MSK, S3, SQS, SNS, SES, DynamoDB, and   API Gateway, as well as in MS Azure and GCP.
+- **Cloud & Infrastructure** — AWS (Lambda, IoT Core, Greengrass, Kinesis, Kafka/MSK,
+  DynamoDB, Timestream, S3, SQS/SNS/SES, API Gateway, VPC, Amplify), Terraform,
+  Kubernetes, GitLab CI/CD, Jenkins/CloudBees; Azure, GCP
+- **AI** — Amazon Bedrock (Claude, Amazon Nova), agent orchestration and tool use,
+  NL-to-SQL over operational data, production LLM integration
+- **Languages** — Python, JavaScript / Node.js, SQL, Java
+- **Frontend** — React, MUI, Next.js, Angular, Highcharts / Plotly, three.js
+- **Security & Identity** — IAM, Cognito, Azure AD / MSAL
 
-• Databases: Proficient in SQL Server, MySQL, and NoSQL.
+### Contact
 
-• Development Tools: Skilled in Jenkins - CloudBees, Terraform, Kubernetes, Docker, Bitbucket, GitHub, and Git.
-
-Email - devnandol@gmail.com
-
-LinkedIn - https://www.linkedin.com/in/devv3899/
-
-Portfolio - https://devv3899.github.io/
+- Email — devnandol@gmail.com
+- LinkedIn — https://www.linkedin.com/in/devv3899/
+- Portfolio — https://devv3899.github.io/
